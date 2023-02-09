@@ -1,0 +1,28 @@
+h2{
+  text-align: center;
+  color: gold;
+}
+img{
+   display: inline-block;
+   
+}
+h1{
+ background-color:beige;
+ color: darkgreen;
+ text-align: center;
+}
+.e{
+  text-align: left;
+  color: royalblue;
+
+}
+.o{
+  text-align: right;
+  color: black;
+
+}
+ p {
+    font-size: larger;
+    font-weight: bolder;
+    color: navy;
+         }
